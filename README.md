@@ -10,4 +10,4 @@
 | 1 | 13/11/2026 | Chang Heng Wei | Compose "Content" part | Search for references on Google Scholar | "Content" part on Page 2 |
 | 2 | 15/11/2026 | Adib Safwan | Compose "Content" part | Search for references on Google Scholar | "Content" part on Page 3 |
 | 3 | 16/11/2026| Hana Khayra | Compose “Cover” part | Search for references on Google | “Cover” part on page 1 |
-| 4 | 16/11/2026 | Omar Zharfan| Compose "log activity" part | Created GitHub repository and compiled log activity  | https://github.com/omarzharfan/log.activity.git |
+| 4 | 17/11/2026 | Omar Zharfan| Compose "log activity" part | Created GitHub repository and compiled log activity  | https://github.com/omarzharfan/log.activity.git |
